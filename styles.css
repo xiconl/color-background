@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: .5em;
+    top: 15%;
+    color: rgba(0, 0, 0, .5);
+    background: linear-gradient(to right, red, yellow);
+    text-transform: upperCase;
+}
+
+h1{
+    color: rgba(0, 0, 0, .5);
+    font: 900 3.5em "Roboto", sans-serif;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+
+}
+
+h3{
+    color: rgba(0, 0, 0, .5);
+    font: 900 1em "railway", sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: ;
+}
