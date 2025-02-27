@@ -47,11 +47,11 @@ This is a simple and interactive web application that allows the user to generat
 
 The project is deployed on vercel, a platform known for it's fast and easy deployment of web applications
 
-Live Demo; https://color-background-generator.vercel.app
+Live Demo; [The Background Generator App](https://color-background-generator.vercel.app)
 
 ## License
 
-This project is licensed under the https://github.com/xiconl/color-background/blob/main/LICENSE
+This project is licensed under the [MIT](https://github.com/xiconl/color-background/blob/main/LICENSE)
 
 ## Contributions
 
